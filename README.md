@@ -39,13 +39,18 @@ I combine deep technical expertise with analytical problem-solving and a passion
 ---
 
 ### 📦 Public Repositories
-> _Note: These repositories are currently under construction — I’m preparing production-grade, NDA-safe templates and examples reflecting real-world patterns I’ve used in client projects._
+
+#### ✅ Available Now
+- 🔹 **[observability](https://github.com/placheckij/observability)** – Production-grade observability solution with monitoring, logging, and tracing
+
+#### 🚧 Coming Soon
+> _These repositories are currently under construction — I'm preparing production-grade, NDA-safe templates and examples reflecting real-world patterns I've used in client projects._
 
 - 🔹 **[fastapi-template](#)** – Async FastAPI boilerplate with Poetry, pre-commit, and Docker setup  
 - 🔹 **[azure-aks-bicep-template](#)** – Bicep + GitHub Actions + Helm for AKS provisioning  
 - 🔹 **[ci-cd-patterns](#)** – Reusable GitHub workflows for build, test, deploy pipelines  
 - 🔹 **[asyncio-examples](#)** – Minimal, real-world asyncio patterns for event-driven systems  
-- 🔹 **[backend-notes](#)** – Short, practical markdown notes from production backend work  
+- 🔹 **[backend-notes](#)** – Short, practical markdown notes from production backend work
 
 ---
 
