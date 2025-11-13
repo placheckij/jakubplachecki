@@ -74,9 +74,9 @@ I combine deep technical expertise with analytical problem-solving and a passion
 
 ### 💬 Connect
 
-📫 **Email:** [jakub.plachecki@gmail.com](mailto:jakub.plachecki@gmail.com)  
+📫 **Email:** [jakub@plachecki.dev](mailto:jakub@plachecki.dev)  
 💼 **LinkedIn:** [linkedin.com/in/jakubplachecki](https://www.linkedin.com/in/jakubplachecki)  
-💻 **GitHub:** [github.com/jakubplachecki](https://github.com/jakubplachecki)
+💻 **GitHub:** [github.com/jakubplachecki](https://github.com/placheckij)
 
 ---
 
