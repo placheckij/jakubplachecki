@@ -41,7 +41,8 @@ I combine deep technical expertise with analytical problem-solving and a passion
 ### 📦 Public Repositories
 
 #### ✅ Available Now
-- 🔹 **[observability](https://github.com/placheckij/observability)** – Production-grade observability solution with monitoring, logging, and tracing
+- 🔹 **[observability](https://github.com/placheckij/observability)** – Observability with Prometheus, Grafana, Blackbox Exporter and Alertmanager. Automated Grafana dashboard creation script - dashboards based on http/https targets configured for Prometheus.
+- 🔹 **[dockerfile-wizardry](https://github.com/placheckij/dockerfile-wizardry)** – A curated spellbook of Dockerfile mastery — best practices, security hardening, image optimization, and battle-tested tricks for crafting production-ready containers.
 
 #### 🚧 Coming Soon
 > _These repositories are currently under construction — I'm preparing production-grade, NDA-safe templates and examples reflecting real-world patterns I've used in client projects._
